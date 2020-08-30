@@ -1,5 +1,6 @@
--# Udacity-DAND-investigate-a-dataset-project
-Project Overview :
+# Udacity-DAND-investigate-a-dataset-project
+
+#Project Overview :
 In this project, I analyzed the tmdb movie dataset and then communicated my findings about it. I used the Python libraries NumPy, Pandas , Matplotlib and seaborn.
 
 Why this Project?
